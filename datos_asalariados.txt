@@ -1,0 +1,20 @@
+
+
+Nombre: harold
+Salario bruto: 1000000.0
+Abono alimentación: 100000
+Abono transporte: 106454
+Descuento pension: -40000.0
+Descuento salud: -40000.0
+Descuento parafiscales: -90000.0
+Salario neto: 1036454.0
+
+
+Nombre: pedro
+Salario bruto: 2000000.0
+Abono alimentación: 100000
+Abono transporte: 106454
+Descuento pension: -80000.0
+Descuento salud: -80000.0
+Descuento parafiscales: -180000.0
+Salario neto: 1866454.0

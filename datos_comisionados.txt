@@ -1,0 +1,14 @@
+
+
+Nombre: carlos
+Salario bruto: 1000000.0
+Ventas: 1000000.0
+Abono 20% de ventas: 200000.0
+Salario neto: 1200000.0
+
+
+Nombre: juanito
+Salario bruto: 3000000.0
+Ventas: 5.0E7
+Abono 20% de ventas: 1.0E7
+Salario neto: 1.3E7
